@@ -1,1 +1,1 @@
-(images/k_step.png "k-step")
+![k-step]("./images/k_step.png")
