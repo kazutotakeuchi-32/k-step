@@ -10,6 +10,14 @@ KーSTEPは、LステップというLINEの配信サービスの「ステップ�
 <img src="/images/k-step5.png" width="500px" height="300px">
 
 # Install
+  下記のコマンドを実行してください。<br><br>
   ```
     $ git clone https://github.com/kazutotakeuchi-32/k-step.git
   ```
+# Requirements
+  - Python 3.8.3
+  - conda 4.8.3
+  - requests 2.24.0
+  - requests-oauthlib 1.3.0
+  - TwitterAPI 2.6.2.1
+  - LINENotifyAPI
