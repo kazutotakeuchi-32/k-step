@@ -8,7 +8,7 @@ KーSTEPは、LステップというLINEの配信サービスの「ステップ�
 <img src="/images/k-step3.png" width="500px" height="300px">
 <img src="/images/k-step4.png" width="500px" height="300px">
 <img src="/images/k-step5.png" width="500px" height="300px">
-<!-- ![Demo1](/images/k-step2.png)
-![Demo2](/images/k-step3.png)
-![Demo3](/images/k-step4.png)
-![Demo4](/images/k-step5.png) -->
+# Install
+  ```
+    $ git clone https://github.com/kazutotakeuchi-32/k-step.git
+  ```
